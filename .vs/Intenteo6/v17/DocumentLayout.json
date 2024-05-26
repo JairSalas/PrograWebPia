@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\",
+  "WorkspaceRootPath": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\intenteo6\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\iver jair\\source\\repos\\intenteo6\\intenteo6\\models\\carrohr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\models\\carrohr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\aplicationusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\aplicationusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\intenteo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\home\\ayuda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\ayuda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\admin\\caja.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\admin\\caja.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|c:\\users\\alexg\\onedrive\\escritorio\\pialeperepojair\\prograwebpia\\intenteo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1C2B38-1546-44FC-8190-D56E416F07AC}|Intenteo6\\Intenteo6.csproj|solutionrelative:intenteo6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,66 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarrosController.cs",
-              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\CarrosController.cs",
-              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\CarrosController.cs",
-              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Controllers\\CarrosController.cs",
-              "RelativeToolTip": "Intenteo6\\Controllers\\CarrosController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAIwEMAAAARAAAA",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Intenteo6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Intenteo6\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:18:46.075Z",
+              "WhenOpened": "2024-05-26T19:03:17.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Caja.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Admin\\Caja.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Admin\\Caja.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Admin\\Caja.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Admin\\Caja.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:25:25.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ayuda.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Ayuda.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Ayuda.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Ayuda.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Ayuda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T07:45:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T07:41:52.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\AplicationUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\AplicationUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\AplicationUsers\\Edit.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\AplicationUsers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:35:07.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Program.cs",
-              "RelativeDocumentMoniker": "Intenteo6\\Program.cs",
-              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Program.cs",
-              "RelativeToolTip": "Intenteo6\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAewDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:00:25.941Z",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T07:40:43.658Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "cf75c906-93e5-4744-9118-ac751f4b3e48",
-        "Display": 0,
-        "X": 730,
-        "Y": 87,
-        "Width": 1378,
-        "Height": 670,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarroHr.cs",
-              "DocumentMoniker": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Models\\CarroHr.cs",
-              "RelativeDocumentMoniker": "Intenteo6\\Models\\CarroHr.cs",
-              "ToolTip": "C:\\Users\\IVER JAIR\\source\\repos\\Intenteo6\\Intenteo6\\Models\\CarroHr.cs",
-              "RelativeToolTip": "Intenteo6\\Models\\CarroHr.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:17:47.463Z",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T07:40:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Intenteo6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexg\\OneDrive\\Escritorio\\PiaLepeRepoJair\\PrograWebPia\\Intenteo6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Intenteo6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T07:39:31.952Z",
               "EditorCaption": ""
             }
           ]

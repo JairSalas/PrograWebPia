@@ -1,5 +1,6 @@
 using Intenteo6.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace Intenteo6.Controllers
@@ -13,15 +14,28 @@ namespace Intenteo6.Controllers
             _logger = logger;
         }
 
+        public IActionResult Admin()
+        {
+            return View();
+        }
+
+    
+        public IActionResult Ayuda()
+        {
+            return View();
+        }
+
         public IActionResult Index()
         {
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
